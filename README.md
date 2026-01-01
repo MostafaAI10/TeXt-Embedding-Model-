@@ -33,7 +33,9 @@ The system follows a clean **CSR (Controller–Service–Repository) architectur
 
 ---
 
-## 🏗 Architecture Overview
+## 📁 Project Structure
+
+```text
 
 text_embedding_system/
 ├── app
@@ -67,6 +69,7 @@ text_embedding_system/
 - **Validation**: Pydantic
 - **Architecture**: CSR Pattern
 
+---
 
 ##Author
 Mostafa Abdelhamed
