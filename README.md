@@ -35,7 +35,7 @@ The system follows a clean **CSR (Controller–Service–Repository) architectur
 
 ## 📁 Project Structure
 
-```text
+```
 
 text_embedding_system/
 ├── app
@@ -55,7 +55,7 @@ text_embedding_system/
 │       └── faiss_client.py
 └── requirements.txt
 
-
+```
 
 ---
 
@@ -71,5 +71,7 @@ text_embedding_system/
 
 ---
 
-##Author
-Mostafa Abdelhamed
+## Author
+
+
+**Mostafa Abdelhamed**
